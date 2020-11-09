@@ -1,0 +1,57 @@
+
+@font-face {
+  font-family: 'Golos Medium';
+  src: url('../fonts/Golos/Medium/Golos Medium.eot');
+  src: url('../fonts/Golos/Medium/Golos Medium.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Golos/Medium/Golos Medium.woff2') format('woff2'),
+       url('../fonts/Golos/Medium/Golos Medium.svg#Golos Medium') format('svg'),
+       url('../fonts/Golos/Medium/Golos Medium.ttf') format('truetype'),
+       url('../fonts/Golos/Medium/Golos Medium.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Golos Regular';
+  src: url('../fonts/Golos/Regular/Golos Regular.eot');
+  src: url('../fonts/Golos/Regular/Golos Regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Golos/Regular/Golos Regular.woff2') format('woff2'),
+       url('../fonts/Golos/Regular/Golos Regular.svg#Golos Regular') format('svg'),
+       url('../fonts/Golos/Regular/Golos Regular.ttf') format('truetype'),
+       url('../fonts/Golos/Regular/Golos Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Golos Black';
+  src: url('../fonts/Golos/Black/Golos Black.eot');
+  src: url('../fonts/Golos/Black/Golos Black.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Golos/Black/Golos Black.woff2') format('woff2'),
+       url('../fonts/Golos/Black/Golos Black.svg#Golos Black') format('svg'),
+       url('../fonts/Golos/Black/Golos Black.ttf') format('truetype'),
+       url('../fonts/Golos/Black/Golos Black.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Golos Bold';
+  src: url('../fonts/Golos/Bold/Golos Bold.eot');
+  src: url('../fonts/Golos/Bold/Golos Bold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Golos/Bold/Golos Bold.woff2') format('woff2'),
+       url('../fonts/Golos/Bold/Golos Bold.svg#Golos Bold') format('svg'),
+       url('../fonts/Golos/Bold/Golos Bold.ttf') format('truetype'),
+       url('../fonts/Golos/Bold/Golos Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Golos DemiBold';
+  src: url('../fonts/Golos/DemiBold/Golos DemiBold.eot');
+  src: url('../fonts/Golos/DemiBold/Golos DemiBold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Golos/DemiBold/Golos DemiBold.woff2') format('woff2'),
+       url('../fonts/Golos/DemiBold/Golos DemiBold.svg#Golos DemiBold') format('svg'),
+       url('../fonts/Golos/DemiBold/Golos DemiBold.ttf') format('truetype'),
+       url('../fonts/Golos/DemiBold/Golos DemiBold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}

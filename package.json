@@ -1,0 +1,35 @@
+{
+  "name": "mailfit_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kramskovd/mailfit_test.git"
+  },
+  "author": "Daniil Kramskov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kramskovd/mailfit_test/issues"
+  },
+  "homepage": "https://github.com/Kramskovd/mailfit_test#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "browser-sync": "^2.26.13",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-inject": "^5.0.5",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-scss": "^1.4.0",
+    "gulp-sourcemaps": "^2.6.5"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
